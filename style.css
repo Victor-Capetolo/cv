@@ -1,0 +1,40 @@
+.foto{
+    position: absolute;
+width: 1000px;
+height: 50.19px;
+left: 0px;
+top: 0px;
+
+background: #E6E6E6;
+}
+
+.dibujo{
+font-family: 'Times New Roman';
+font-style: normal;
+font-weight:2;
+font-size: 35px;
+line-height: 84.69%;
+/* identical to box height, or 30px */
+
+font-feature-settings: 'cpsp' on;
+
+color: #005677;
+background-image: -moz-linear-gradient();
+}
+
+body{
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dibujo{
+    background-attachment: fixed;
+    background-image: "C:\Users\victo\DH\Front\img\Fondo.jpg";
+    background-size: 1300px;
+    color: white;
+    text-align: center;
+}
+
+footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

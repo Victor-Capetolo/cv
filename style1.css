@@ -1,0 +1,15 @@
+header{
+    color: blue;
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    color: brown;
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+    color: blueviolet;
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
